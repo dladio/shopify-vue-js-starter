@@ -1,9 +1,5 @@
 <!-- logo (start) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/uicrooks/shopify-theme-lab/master/.github/img/logo.svg" width="250px">
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/uicrooks/shopify-theme-lab/master/.github/img/banner.svg" width="400px">
 </p>
 <!-- logo (end) -->
